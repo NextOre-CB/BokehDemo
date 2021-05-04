@@ -8,10 +8,10 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'nextore-connection-id'
+  azureServiceConnectionId: 'a112e7c1-cdf1-46d8-919c-934da4cc4588'
   
   # Web app name
-  webAppName: 'nextore-bokeh-demo'
+  webAppName: 'bokehdemo'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
